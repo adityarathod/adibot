@@ -1,0 +1,11 @@
+# data storage
+/raw_data
+/data
+
+# model storage and adapters
+/model
+/model_quantized
+/adapters
+
+# ipython notebook checkpoints
+.ipynb_checkpoints

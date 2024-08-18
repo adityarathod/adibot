@@ -1,0 +1,8 @@
+# Env vars
+.env
+
+# Bot config
+bot-config.json
+
+# Binaries
+/bot

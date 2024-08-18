@@ -1,0 +1,5 @@
+# Model training folder
+/training
+
+# macOS folder attributes
+.DS_Store
