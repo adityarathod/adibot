@@ -4,7 +4,7 @@ This is a weekend experiment in which I finetuned a 7B 4-bit quantized LLM on my
 
 The end result was a fairly convincing and pretty hilarious toy that I shared with a few friends.
 
-I published a blog post with what I learned [here](#) (TODO: coming soon).
+I published a blog post with what I learned [here](https://adibytes.dev/writing/training-a-bot-on-myself/).
 
 ## project structure
 
